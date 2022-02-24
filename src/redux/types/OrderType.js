@@ -1,0 +1,11 @@
+const types = {
+    GET_ORDER_DATA : 'GET_ORDER_DATA',
+    REMOVE_ORDER_DATA : 'REMOVE_ORDER_DATA',
+    SET_ORDER_DATA : 'SET_ORDER_DATA',
+    SET_CINEMA : 'SET_CINEMA',
+    ADD_SEAT : 'ADD_SEAT',
+    REMOVE_SEAT : 'REMOVE_SEAT',
+    REMOVE_ALL_SEAT  : 'REMOVE_ALL_SEAT'
+}
+
+export default types;

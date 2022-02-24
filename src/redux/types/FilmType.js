@@ -1,0 +1,11 @@
+const types = {
+    GET_HOME_DATA : 'GET_HOME_DATA',
+    SET_HOME_DATA : 'SET_HOME_DATA',
+    SET_HOME_LOADING : 'SET_HOME_LOADING',
+    GET_FILM_DATA : 'GET_FILM_DATA',
+    SET_FILM_DATA : 'SET_FILM_DATA',
+    SET_FILM_ERROR : 'SET_FILM_ERROR'
+}
+
+
+export default  types;
